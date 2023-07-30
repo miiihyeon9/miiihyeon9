@@ -22,10 +22,9 @@
 </div>
 <div align=center>
 	<p><a href="https://github.com/PHP-506-2nd-6/commanine" >2차 ~ 3차 프로젝트</a></p>
-  <p><a href="https://www.canva.com/design/DAFpmR3_rYw/zFqbcgO-FttDqWqNFd0gGw/view?utm_content=DAFpmR3_rYw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" >3차 프로젝트 PPT</a></p>
-  <p><a href="https://www.canva.com/design/DAFnBgxeIOw/6zihI2tw_jKpbiS5WvrxDA/view?utm_content=DAFnBgxeIOw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" >2차 프로젝트 PPT</a></p>
-  <br>
-  <p><a href="https://github.com/PHP-506-6/PHP_1STPJ" >1차 프로젝트</a></p>
-  <p><a href="https://www.canva.com/design/DAFhALKimcQ/dofAdle-EILzXdMmIrVd3A/view?utm_content=DAFhALKimcQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" >1차 프로젝트 PPT</a></p>
-  
+  	<p><a href="https://www.canva.com/design/DAFpmR3_rYw/zFqbcgO-FttDqWqNFd0gGw/view?utm_content=DAFpmR3_rYw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" >3차 프로젝트 (2023-07-14 ~ 2023-08-02) PPT</a></p>
+  	<p><a href="https://www.canva.com/design/DAFnBgxeIOw/6zihI2tw_jKpbiS5WvrxDA/view?utm_content=DAFnBgxeIOw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" >2차 프로젝트 (2023-06-05 ~ 2023-06-28) PPT</a></p>
+  	<br>
+  	<p><a href="https://github.com/PHP-506-6/PHP_1STPJ" >1차 프로젝트</a></p>
+  	<p><a href="https://www.canva.com/design/DAFhALKimcQ/dofAdle-EILzXdMmIrVd3A/view?utm_content=DAFhALKimcQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" >1차 프로젝트 (2023-04-17 ~ 2023-05-01) PPT</a></p>
 </div>
